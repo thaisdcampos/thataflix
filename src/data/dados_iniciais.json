@@ -74,28 +74,24 @@
       ]
     },
     {
-      "titulo": "Data Science e Inteligência Artificial",
+      "titulo": "Finanças",
       "cor": "#9cd33b",
-      "link_extra": {
-        "text": "Cursos de Data Science na Alura",
-        "url": "https://www.alura.com.br/formacao-data-science"
-      },
       "videos": [
         {
-          "titulo": "Teste de Turing",
-          "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
+          "titulo": "Reserva de emergencia",
+          "url": "https://www.youtube.com/watch?v=dokj_p3lU_0"
         },
         {
-          "titulo": "O que é Data Science?",
-          "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
+          "titulo": "Os 6 piores investimento de 2020",
+          "url": "https://www.youtube.com/watch?v=vpZBpRiuZCI"
         },
         {
-          "titulo": "Melhor forma de aprender Python",
-          "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
+          "titulo": "Etapas para investir",
+          "url": "https://www.youtube.com/watch?v=NQ_KUyJ4UhM"
         },
         {
-          "titulo": "Como ingressar no mercado de Data Science?",
-          "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
+          "titulo": "Independência financeira",
+          "url": "https://www.youtube.com/watch?v=ITWInAUKUo4"
         }
       ]
     },
@@ -122,32 +118,28 @@
       ]
     },
     {
-      "titulo": "Games",
+      "titulo": "Amigurumi",
       "cor": "red",
-      "link_extra": {
-        "text": "Formação de Jogos na Alura",
-        "url": "https://www.alura.com.br/formacao-jogos-unity"
-      },
       "videos": [
         {
-          "titulo": "Final Fantasy 7",
-          "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
+          "titulo": "O que é amigurumi",
+          "url": "https://www.youtube.com/watch?v=g311r72H-zM"
         },
         {
-          "titulo": "Assassins Creed Valhalla",
-          "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
+          "titulo": "Amigurumi do Zero #1",
+          "url": "https://www.youtube.com/watch?v=AilLf-Ql4iQ&t=310s"
         },
         {
-          "titulo": "God of War 4",
-          "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
+          "titulo": "Como criar receitas",
+          "url": "https://www.youtube.com/watch?v=Ffi-wrJ5NnQ"
         },
         {
-          "titulo": "Resident Evil 8",
-          "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
-        },
+          "titulo": "Dicas de instagram pra vender amigurimi",
+          "url": "https://www.youtube.com/watch?v=ENmtAcQm1Go"
+        },   
         {
-          "titulo": "Pokémon Let's Go Pikachu/Eevee",
-          "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
+          "titulo": "Como costurar seu amigurumi",
+          "url": "https://www.youtube.com/watch?v=Bw815iKFPKw"
         }
       ]
     },
