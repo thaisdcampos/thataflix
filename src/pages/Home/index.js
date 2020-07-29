@@ -1,7 +1,7 @@
 import React from 'react';
 import Menu from '../../components/Menu';
 import BannerMain from '../../components/BannerMain'
-import VideoCardGroup from '../../components/Carousel';
+import Carousel from '../../components/Carousel';
 import Footer from '../../components/Footer';
 import dadosIniciais from '../../data/dados_iniciais.json';
 
@@ -17,8 +17,8 @@ function Home() {
       
       {
         dadosIniciais.categorias.map(categoria => 
-          <VideoCardGroup 
-            ignoreFirstVideo
+          <Carousel 
+            ignoreFirstVideo={false}
             category={categoria}
           />
         )
