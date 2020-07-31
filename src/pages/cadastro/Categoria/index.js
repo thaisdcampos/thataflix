@@ -2,6 +2,7 @@ import React, { useState, useEffect } from 'react';
 import { Link } from 'react-router-dom';
 import PageDefault from '../../../components/PageDefault';
 import FormField from '../../../components/FormField';
+import Button from '../../../components/Button';
 
 function CadastroCategoria() {
   const initialValues = {
@@ -21,7 +22,6 @@ function CadastroCategoria() {
   }
 
   function handleChange(event) {
-    console.log(`teste${event}`);
     setValue(
       event.target.getAttribute('name'),
       event.target.value,
@@ -82,14 +82,14 @@ function CadastroCategoria() {
           onChange={handleChange}
         />
 
-        <button>
+        <Button type="button">
           Cadastrar
-        </button>
+        </Button>
       </form>
 
       <ul>
         {categories.map((category) => (
-          <li key={category.name}>
+          <li key={category.id}>
             {category.titulo}
           </li>
         ))}
